@@ -1,0 +1,8 @@
+# Local only: superseded and withdrawn drafts are preserved here but not published
+cases/drafts/
+# Run outputs (publish curated results separately)
+results/
+__pycache__/
+.pytest_cache/
+# Original round 1 review kept locally; a public copy is review/independent_review_round1.md
+review/independent_review.md
